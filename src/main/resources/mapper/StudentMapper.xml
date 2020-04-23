@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.springboottest1.mapper.StudentMapper" >
+
+    <!--添加数据库对应信息  必填-->
+    <resultMap id="studentMap" type="com.example.springboottest1.entity.Student" >
+      <id column="id" property="id" jdbcType="INTEGER" />
+      <result column="sno" property="sno" jdbcType="VARCHAR" />
+      <result column="username" property="username" jdbcType="VARCHAR" />
+      <result column="email" property="email" jdbcType="VARCHAR" />
+        <result column="gender" property="gender" jdbcType="VARCHAR" />
+        <result column="pid" property="pid" jdbcType="INTEGER"/>
+        <result column="grade" property="grade" jdbcType="VARCHAR"/>
+        <result column="hobby" property="hobby" jdbcType="VARCHAR"/>
+        <result column="why" property="why" jdbcType="VARCHAR"/>
+        <!-- 配置封装 professional 的内容 -->
+        <association property="professional" column="pid" javaType="Professional">
+            <id property="pid" column="pid" jdbcType="INTEGER"/>
+            <result column="proname" property="proname" jdbcType="VARCHAR" />
+        </association>
+    </resultMap>
+    <!-- 根据查询所有用户 -->
+    <select id="findAll" resultMap="studentMap">
+     SELECT b.id,b.sno, b.username,b.email,b.gender,b.pid,p.proname,b.grade,b.hobby,b.why FROM pro_name p,bm_user b WHERE b.pid = p.pid;
+</select>
+</mapper>

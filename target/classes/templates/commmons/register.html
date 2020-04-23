@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<title>Signin Template for Bootstrap</title>
+		<script src="/asserts/jquery-3.2.1.min.js" th:src="@{/webjars/jquery/3.2.1/jquery.min.js}"></script>
+		<!-- Bootstrap core CSS -->
+		<link href="asserts/css/bootstrap.min.css" th:href="@{/webjars/bootstrap/4.0.0/css/bootstrap.css}" rel="stylesheet">
+		<!-- Custom styles for this template -->
+		<link href="asserts/css/signin.css" th:href="@{/asserts/css/signin.css}" rel="stylesheet">
+		<script href="asserts/css/bootstrap.min.css" th:href="@{/webjars/bootstrap/4.0.0/css/bootstrap.css}"></script>
+		<!--<script href="asserts/js/jquery-3.2.1.slim.min.js" th:href="@{webjars/jquery/3.2.1/jquery.min.js}"></script>-->
+		<!--<script type="text/javascript" src="/js/register.js" th:src="@{/js/register.js}"></script>-->
+		<!--<script type="text/javascript"  href="/js/findbyname.js" th:href="@{/js/findbyname.js}"></script>-->
+		<script type="text/javascript">
+			function al() {
+				// $("#username").blur(function () {
+				// 	var name = $("#username").val();
+                 //    console.log(name);
+                    $.ajax({
+                            url:"/user/findByName",
+                            data:{"name":$('#username').val()},
+                            cache:false,
+                            type:"POST",
+                            dataType:'json',
+                            contentType:'application/json',
+                            success:function (result) {
+                                console.log(result);
+                                if(result = 0){
+                                    $("#err").html("用户名已存在");
+                                }else if (result = 2) {
+                                    $("#err").html("用户名可用");
+                                }
+                            }
+                        });
+			}
+                    // $.get("/user/findByName",{username: name},function (data) {
+						// if (data){
+						//     console.log(username);
+						//     $("#err").html("用户名已存在");
+						//     $("#saveBtn").attr('disabled',true);
+						// }else {
+						//     $("#err").html("用户名可用");
+						//     $("#saveBtn"),attr('disabled',false);
+						// }
+                    // });
+
+		</script>
+	</head>
+
+	<body class="text-center">
+		<form class="form-signin" action="login.html" th:action="@{/user/register}" method="post">
+			<img class="mb-4" th:src="@{/asserts/img/bootstrap-solid.svg}" src="asserts/img/bootstrap-solid.svg" alt="" width="72" height="72">
+			<!--th:text="#{login.tip}"获取国际化的值,th:text用于标签体-->
+			<h1 class="h3 mb-3 font-weight-normal" th:text="#{register.tip}">Please register</h1>
+			<!--&lt;!&ndash;判断msg是否为空&ndash;&gt;-->
+			<!--<p style="color: red" th:text="${msg}" th:if="${not #strings.isEmpty(msg)}"></p>-->
+			<label class="sr-only" th:text="#{register.username}" >Username</label>
+			<div id="err" style="color: red"></div>
+			<input type="text" name="username" id="username" onblur="al()" class="form-control" placeholder="Username" th:placeholder="#{register.username}" required="" autofocus="">
+			<label class="sr-only" th:text="#{register.password}">Password</label>
+			<input type="password" name="password" id="password" class="form-control" placeholder="Password" th:placeholder="#{register.password}" required="">
+			<label class="sr-only" th:text="#{register.password2}">Password Again</label>
+			<input type="password" name="password2" class="form-control" placeholder="Password2" th:placeholder="#{register.password2}" required="">
+			<div class="checkbox mb-3">
+			</div>
+			<button class="btn btn-lg btn-primary btn-block" name="saveBtn" id="saveBtn" type="submit" th:text="#{register.btn}">Sign in</button>
+			<p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+			<a class="btn btn-sm" th:href="@{/templates/commmons/register.html(l='zh_CN')}">中文</a>
+			<a class="btn btn-sm" th:href="@{/templates/commmons/register.html(l='en_US')}">English</a>
+		</form>
+
+	</body>
+
+</html>

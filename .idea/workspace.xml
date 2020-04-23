@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbc5b0a6-06a0-4b14-89b1-5ce542808e18" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-oauth/spring-boot-demo-oauth-resource-server/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-exception-handler/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-admin/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-oauth/spring-boot-demo-oauth-authorization-server/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-activiti/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-websocket-socketio/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mq-rocketmq/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-urule/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-task-quartz/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-task-xxl-job/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-shiro/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-freemarker/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-actuator/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-mybatis-plus/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-properties/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-upload/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-logback/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-beetl/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-security/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-email/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-admin/spring-boot-demo-admin-server/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ureport2/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-session/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-cache-redis/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-mybatis-mapper-page/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-task/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-async/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-zookeeper/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-log-aop/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-helloworld/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-social/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-swagger-beauty/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-thymeleaf/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-cache-ehcache/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-websocket/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-oauth/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-jdbctemplate/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mq-kafka/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-mybatis/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-jpa/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-admin/spring-boot-demo-admin-client/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-uflo/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-enjoy/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mq-rabbitmq/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-swagger/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-beetlsql/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/spring-boot-demo-dubbo-provider/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-elasticsearch-rest-high-level-client/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ratelimit-redis/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-flyway/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-graylog/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-https/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/spring-boot-demo-dubbo-consumer/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-docker/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ratelimit-guava/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-multi-datasource-jpa/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-war/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-multi-datasource-mybatis/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-neo4j/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mongodb/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-tio/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-codegen/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/spring-boot-demo-dubbo-common/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-sharding-jdbc/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dynamic-datasource/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-elasticsearch/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ldap/target/" />
+    <ignored path="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1899399070">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1336318976">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>basedir</find>
+      <find>setRegisterShutdownHook</find>
+      <find>setStored</find>
+      <find>setIndexed</find>
+      <find>getFilePath</find>
+      <find>getFileName</find>
+      <find>IndexSearcher</find>
+      <find>getConn</find>
+      <find>IndexBuilder</find>
+      <find>jj_consume_token</find>
+      <find>Integer</find>
+      <find>icon</find>
+      <find>logo</find>
+      <find>top</find>
+      <find>swiper-slide</find>
+      <find>thymeleaf</find>
+      <find>&lt;span class=&quot;username&quot; th:text=&quot;${user.username}&quot;&gt;&lt;/span&gt;</find>
+      <find>UTF</find>
+      <find>1080</find>
+      <find>10</find>
+      <find>banner</find>
+      <find>swiper-paginatio</find>
+      <find>swiper-wrapper</find>
+      <find>swiper-pagination</find>
+      <find>accuracy</find>
+      <find>send</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\testObject1</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/interceptor/sessionInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/interceptor/userLoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commmon/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commmon/login.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/findbyname.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/service/UserLoginService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commmon/register.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/dao/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/dao/EmployeeDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commmons/index.html" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-security/src/main/java/com/xkcoding/rbac/security/common/BaseException.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-security/src/main/java/com/xkcoding/rbac/security/config/SecurityHandlerConfig.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-security/src/main/java/com/xkcoding/rbac/security/vo/OnlineUser.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-security/pom.xml" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/database/import.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/user/welcome.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/userLogin_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/register.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/register_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commmons/register.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commmons/login.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/register_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commons/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/Stu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/mapper/StuMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commons/register.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/commons/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/UserLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/config/MyMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/component/LoginHanderInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/springboottest1/config/DruidConfig.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/user/daka.html" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/user/baoming.html" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/component/MyLocaleResolver.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/commons/index.html" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/model/UserInfo.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/mapper/userMapper.xml" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/config/ShiroConfig.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/sevice/UserInfoService.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/config/MyMvcConfig.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/web/HomeController.java" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/pom.xml" />
+        <option value="E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="89" />
+    <option name="y" value="34" />
+    <option name="width" value="1411" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboottest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="neo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543386581404" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45588234" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\resources\templates\commmon" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\resources\templates" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\resources\static\js" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\resources\templates\user" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\resources\templates\demo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.springboottest1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JetBrainsIntelliJ IDEA 2018.1.6\spring-boot-examples-master\spring-boot-shiro\src\main\resources" />
+      <recent name="E:\JetBrainsIntelliJ IDEA 2018.1.6\spring-boot-examples-master\spring-boot-shiro\src\main\resources\templates" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\resources\templates\admin" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\java\com\example\springboottest1\entity" />
+      <recent name="D:\搜狗高速下载\创建springboot项目\创建springboot项目\testObject1 - 副本\src\main\java\com\example\springboottest1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neo.component" />
+      <recent name="com.neo.config" />
+      <recent name="com.example.springboottest1.mapper" />
+      <recent name="com.example.springboottest1.sendEmail" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springboottest1.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShiroApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelTagsUtil" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springboottest1.test.DelTagsUtil" />
+      <module name="testObject1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboottest1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testArr" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springboottest1.test.testArr" />
+      <module name="testObject1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboottest1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="All in testObject1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testObject1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in testObject1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testObject1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in testObject1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testObject1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="testObject1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-elasticsearch-rest-high-level-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.elasticsearch.ElasticsearchApplication" />
+    </configuration>
+    <configuration name="ShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.ShiroApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoActivitiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-activiti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.activiti.SpringBootDemoActivitiApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.actuator.SpringBootDemoActuatorApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoAdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.admin.client.SpringBootDemoAdminClientApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoAdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-admin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.admin.server.SpringBootDemoAdminServerApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoAsyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.async.SpringBootDemoAsyncApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoCacheEhcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-cache-ehcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.cache.ehcache.SpringBootDemoCacheEhcacheApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoCacheRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-cache-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.cache.redis.SpringBootDemoCacheRedisApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoCodegenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-codegen" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.codegen.SpringBootDemoCodegenApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-docker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.docker.SpringBootDemoDockerApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoDubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dubbo.consumer.SpringBootDemoDubboConsumerApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoDubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dubbo.provider.SpringBootDemoDubboProviderApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoDynamicDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-dynamic-datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dynamic.datasource.SpringBootDemoDynamicDatasourceApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.elasticsearch.SpringBootDemoElasticsearchApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.email.SpringBootDemoEmailApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoExceptionHandlerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-exception-handler" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.exception.handler.SpringBootDemoExceptionHandlerApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoFlywayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-flyway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.flyway.SpringBootDemoFlywayApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoGraylogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-graylog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.graylog.SpringBootDemoGraylogApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoHelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.helloworld.SpringBootDemoHelloworldApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoHttpsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-https" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.https.SpringBootDemoHttpsApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoLogAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-log-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.log.aop.SpringBootDemoLogAopApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoLogbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.logback.SpringBootDemoLogbackApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoMongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mongodb.SpringBootDemoMongodbApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoMqKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mq-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.kafka.SpringBootDemoMqKafkaApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoMqRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mq-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.rabbitmq.SpringBootDemoMqRabbitmqApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoMqRocketmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mq-rocketmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.rocketmq.SpringBootDemoMqRocketmqApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoMultiDatasourceJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-multi-datasource-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.multi.datasource.jpa.SpringBootDemoMultiDatasourceJpaApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoMultiDatasourceMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-multi-datasource-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.multi.datasource.mybatis.SpringBootDemoMultiDatasourceMybatisApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoNeo4jApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-neo4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.neo4j.SpringBootDemoNeo4jApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.oauth.SpringBootDemoOauthApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOrmBeetlsqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-beetlsql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.beetlsql.SpringBootDemoOrmBeetlsqlApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOrmJdbctemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-jdbctemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.jdbctemplate.SpringBootDemoOrmJdbctemplateApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOrmJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.jpa.SpringBootDemoOrmJpaApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.SpringBootDemoOrmMybatisApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisMapperPageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-mybatis-mapper-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.MapperAndPage.SpringBootDemoOrmMybatisMapperPageApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.plus.SpringBootDemoOrmMybatisPlusApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoPropertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.properties.SpringBootDemoPropertiesApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoRatelimitGuavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-ratelimit-guava" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ratelimit.guava.SpringBootDemoRatelimitGuavaApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoRatelimitRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-ratelimit-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ratelimit.redis.SpringBootDemoRatelimitRedisApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoRbacShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-rbac-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.rbac.shiro.SpringBootDemoRbacShiroApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-oauth-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.oauth.SpringBootDemoResourceApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoSessionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-session" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.session.SpringBootDemoSessionApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoShardingJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-sharding-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.sharding.jdbc.SpringBootDemoShardingJdbcApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoSocialApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-social" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.social.SpringBootDemoSocialApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.swagger.SpringBootDemoSwaggerApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoSwaggerBeautyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-swagger-beauty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.swagger.beauty.SpringBootDemoSwaggerBeautyApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.SpringBootDemoTaskApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTaskQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-task-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.quartz.SpringBootDemoTaskQuartzApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTaskXxlJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-task-xxl-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.xxl.job.SpringBootDemoTaskXxlJobApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTemplateBeetlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-beetl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.beetl.SpringBootDemoTemplateBeetlApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTemplateEnjoyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-enjoy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.enjoy.SpringBootDemoTemplateEnjoyApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTemplateFreemarkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.freemarker.SpringBootDemoTemplateFreemarkerApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTemplateThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.thymeleaf.SpringBootDemoTemplateThymeleafApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoTioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-tio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.springbootdemotio.SpringBootDemoTioApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoUfloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-uflo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.uflo.SpringBootDemoUfloApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.upload.SpringBootDemoUploadApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoUreport2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-ureport2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ureport2.SpringBootDemoUreport2Application" />
+    </configuration>
+    <configuration name="SpringBootDemoUruleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-urule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.urule.SpringBootDemoUruleApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoWarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.war.SpringBootDemoWarApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.websocket.SpringBootDemoWebsocketApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoWebsocketSocketioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-websocket-socketio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.websocket.socketio.SpringBootDemoWebsocketSocketioApplication" />
+    </configuration>
+    <configuration name="SpringBootDemoZookeeperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.zookeeper.SpringBootDemoZookeeperApplication" />
+    </configuration>
+    <configuration name="Springboottest1Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboottest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboottest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboottest1.Springboottest1Application" />
+    </configuration>
+    <configuration name="Springboottest1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testObject1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboottest1.Springboottest1Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_springboottest1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50860" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="PORT" value="8081" />
+      <option name="LOCAL" value="false" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="c11727aa-0d4f-40dc-a652-2aca28a1bc17" />
+                    <id>c11727aa-0d4f-40dc-a652-2aca28a1bc17</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="c11727aa-0d4f-40dc-a652-2aca28a1bc17" />
+                    <id>c11727aa-0d4f-40dc-a652-2aca28a1bc17</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="729ecb26-2032-4b54-af73-9d39ee739958" />
+                    <id>729ecb26-2032-4b54-af73-9d39ee739958</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="729ecb26-2032-4b54-af73-9d39ee739958" />
+                    <id>729ecb26-2032-4b54-af73-9d39ee739958</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2570" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testObject" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 8.0.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="PORT" value="8081" />
+      <option name="LOCAL" value="false" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="c11727aa-0d4f-40dc-a652-2aca28a1bc17" />
+                    <id>c11727aa-0d4f-40dc-a652-2aca28a1bc17</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="c11727aa-0d4f-40dc-a652-2aca28a1bc17" />
+                    <id>c11727aa-0d4f-40dc-a652-2aca28a1bc17</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="729ecb26-2032-4b54-af73-9d39ee739958" />
+                    <id>729ecb26-2032-4b54-af73-9d39ee739958</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="729ecb26-2032-4b54-af73-9d39ee739958" />
+                    <id>729ecb26-2032-4b54-af73-9d39ee739958</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2570" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.testArr" />
+      <item itemvalue="Application.DelTagsUtil" />
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Spring Boot.Springboottest1Application" />
+      <item itemvalue="Spring Boot.SpringBootDemoLogAopApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoDubboProviderApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoOrmMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoZookeeperApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoActivitiApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoCacheRedisApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoUploadApplication" />
+      <item itemvalue="Spring Boot.ElasticsearchApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoWebsocketSocketioApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTaskApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoRatelimitRedisApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoEmailApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoFlywayApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoAdminClientApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoMqKafkaApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoGraylogApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoHttpsApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoUruleApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoWebsocketApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoDubboConsumerApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoDockerApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoExceptionHandlerApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoActuatorApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTaskQuartzApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoSocialApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoLogbackApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoRatelimitGuavaApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoMultiDatasourceJpaApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoUreport2Application" />
+      <item itemvalue="Spring Boot.SpringBootDemoOrmMybatisMapperPageApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoOrmBeetlsqlApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoWarApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoMultiDatasourceMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoOrmJpaApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoSessionApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoPropertiesApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoAdminServerApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoNeo4jApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoCacheEhcacheApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoRbacShiroApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoAsyncApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTemplateThymeleafApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTaskXxlJobApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoMongodbApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTioApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoSwaggerBeautyApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoSwaggerApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoOauthApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTemplateBeetlApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoResourceApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoMqRocketmqApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoCodegenApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoHelloworldApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTemplateEnjoyApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoShardingJdbcApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoDynamicDatasourceApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoElasticsearchApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoOrmJdbctemplateApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoOrmMybatisPlusApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoTemplateFreemarkerApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoMqRabbitmqApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoUfloApplication" />
+      <item itemvalue="Tomcat Server.testObject" />
+      <item itemvalue="JUnit.All in testObject1 (1)" />
+      <item itemvalue="JUnit.All in testObject1 (2)" />
+      <item itemvalue="JUnit.All in testObject1 (3)" />
+      <item itemvalue="Spring Boot.ShiroApplication" />
+      <item itemvalue="Spring Boot.Springboottest1Application (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShiroApplication" />
+        <item itemvalue="Spring Boot.Springboottest1Application (1)" />
+        <item itemvalue="JUnit.All in testObject1 (3)" />
+        <item itemvalue="JUnit.All in testObject1 (2)" />
+        <item itemvalue="JUnit.All in testObject1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbc5b0a6-06a0-4b14-89b1-5ce542808e18" name="Default" comment="" />
+      <created>1535594968719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535594968719</updated>
+      <workItem from="1535595007953" duration="13810000" />
+      <workItem from="1535674967943" duration="19513000" />
+      <workItem from="1535944352353" duration="823000" />
+      <workItem from="1535945901814" duration="11832000" />
+      <workItem from="1536020760624" duration="5930000" />
+      <workItem from="1536110573489" duration="4347000" />
+      <workItem from="1536132851442" duration="166000" />
+      <workItem from="1536133437402" duration="96000" />
+      <workItem from="1536201494227" duration="552000" />
+      <workItem from="1536225943509" duration="611000" />
+      <workItem from="1536303942055" duration="6569000" />
+      <workItem from="1536541789188" duration="17000" />
+      <workItem from="1536569114042" duration="1711000" />
+      <workItem from="1536571414521" duration="750000" />
+      <workItem from="1536628388335" duration="2093000" />
+      <workItem from="1536713064320" duration="655000" />
+      <workItem from="1536801120210" duration="471000" />
+      <workItem from="1536801610083" duration="6097000" />
+      <workItem from="1536809965356" duration="1996000" />
+      <workItem from="1537172665296" duration="3367000" />
+      <workItem from="1537176047892" duration="92000" />
+      <workItem from="1537176146984" duration="2203000" />
+      <workItem from="1537324186548" duration="2093000" />
+      <workItem from="1537492692466" duration="3936000" />
+      <workItem from="1537869072842" duration="544000" />
+      <workItem from="1538009297886" duration="107000" />
+      <workItem from="1538120875128" duration="1142000" />
+      <workItem from="1538267297832" duration="1303000" />
+      <workItem from="1538287637136" duration="1129000" />
+      <workItem from="1538298209918" duration="3271000" />
+      <workItem from="1538958625207" duration="894000" />
+      <workItem from="1538959546312" duration="539000" />
+      <workItem from="1539047424939" duration="1375000" />
+      <workItem from="1539048807947" duration="652000" />
+      <workItem from="1539057363956" duration="2020000" />
+      <workItem from="1539132506026" duration="2575000" />
+      <workItem from="1539137016215" duration="1228000" />
+      <workItem from="1539584726908" duration="7561000" />
+      <workItem from="1543386248702" duration="264000" />
+      <workItem from="1547105774877" duration="85000" />
+      <workItem from="1572851618241" duration="9228000" />
+      <workItem from="1572874517706" duration="7527000" />
+      <workItem from="1572914703174" duration="5600000" />
+      <workItem from="1572937980803" duration="3213000" />
+      <workItem from="1572944137558" duration="3033000" />
+      <workItem from="1573002118324" duration="2097000" />
+      <workItem from="1573025413381" duration="6868000" />
+      <workItem from="1573092971597" duration="3338000" />
+      <workItem from="1573109355822" duration="4537000" />
+      <workItem from="1573114181196" duration="4000000" />
+      <workItem from="1573129089762" duration="23000" />
+      <workItem from="1573178045768" duration="601000" />
+      <workItem from="1573178672292" duration="5282000" />
+      <workItem from="1573184167522" duration="354000" />
+      <workItem from="1573185122955" duration="155000" />
+      <workItem from="1573439563012" duration="4415000" />
+      <workItem from="1573614037797" duration="12799000" />
+      <workItem from="1573655141157" duration="2995000" />
+      <workItem from="1573658167473" duration="3140000" />
+      <workItem from="1573696423014" duration="7000" />
+      <workItem from="1573698994785" duration="2987000" />
+      <workItem from="1573717184757" duration="2410000" />
+      <workItem from="1573721527446" duration="668000" />
+      <workItem from="1573722206079" duration="2842000" />
+      <workItem from="1576234471637" duration="666000" />
+      <workItem from="1576240162537" duration="4020000" />
+      <workItem from="1578362379707" duration="3840000" />
+      <workItem from="1578372760835" duration="1065000" />
+      <workItem from="1578373853974" duration="610000" />
+      <workItem from="1578642387970" duration="1747000" />
+      <workItem from="1578644290321" duration="4653000" />
+      <workItem from="1579077350692" duration="1940000" />
+      <workItem from="1580826573023" duration="5027000" />
+      <workItem from="1580831670826" duration="778000" />
+      <workItem from="1580909603051" duration="205000" />
+      <workItem from="1580998273866" duration="1021000" />
+      <workItem from="1580999340416" duration="2815000" />
+      <workItem from="1581228785520" duration="13972000" />
+      <workItem from="1581251836218" duration="7369000" />
+      <workItem from="1581313898470" duration="2993000" />
+      <workItem from="1581318201757" duration="1042000" />
+      <workItem from="1581324008996" duration="244000" />
+      <workItem from="1581325340378" duration="355000" />
+      <workItem from="1581336116557" duration="491000" />
+      <workItem from="1581337207185" duration="442000" />
+      <workItem from="1581339202097" duration="5876000" />
+      <workItem from="1581347066885" duration="827000" />
+      <workItem from="1581347991071" duration="2724000" />
+      <workItem from="1581403406748" duration="1832000" />
+      <workItem from="1582032272562" duration="1126000" />
+      <workItem from="1582037086110" duration="1754000" />
+      <workItem from="1582116712409" duration="1381000" />
+      <workItem from="1582120903948" duration="3159000" />
+      <workItem from="1583127494102" duration="6943000" />
+      <workItem from="1583134839841" duration="492000" />
+      <workItem from="1583220049203" duration="4434000" />
+      <workItem from="1583239587268" duration="12000" />
+      <workItem from="1583306770940" duration="3731000" />
+      <workItem from="1583311516880" duration="451000" />
+      <workItem from="1583392222311" duration="673000" />
+      <workItem from="1583392974286" duration="67000" />
+      <workItem from="1583400525639" duration="64000" />
+      <workItem from="1586758023723" duration="4175000" />
+      <workItem from="1586780481917" duration="10057000" />
+      <workItem from="1586793442810" duration="4523000" />
+      <workItem from="1586916374476" duration="29999000" />
+      <workItem from="1587005691080" duration="2909000" />
+      <workItem from="1587009051169" duration="757000" />
+      <workItem from="1587016692224" duration="11714000" />
+      <workItem from="1587030663106" duration="1671000" />
+      <workItem from="1587046590288" duration="2601000" />
+      <workItem from="1587174156250" duration="11559000" />
+      <workItem from="1587302381695" duration="1226000" />
+      <workItem from="1587305063681" duration="2683000" />
+      <workItem from="1587349274114" duration="3694000" />
+      <workItem from="1587361933053" duration="1588000" />
+      <workItem from="1587363658430" duration="4559000" />
+      <workItem from="1587373664949" duration="8255000" />
+      <workItem from="1587391946894" duration="80000" />
+      <workItem from="1587392123272" duration="37000" />
+      <workItem from="1587393629470" duration="36000" />
+      <workItem from="1587394077810" duration="16000" />
+      <workItem from="1587394133283" duration="18000" />
+      <workItem from="1587394157519" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_testObject1 - 2019.11.08 at 11h 40m 33s.xml">
+      <configuration name="All in testObject1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1 - 2019.11.11 at 10h 35m 57s.xml">
+      <configuration name="All in testObject1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(1) - 2020.01.07 at 13h 12m 14s.xml">
+      <configuration name="All in testObject1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(2) - 2020.01.07 at 13h 18m 59s.xml">
+      <configuration name="All in testObject1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(3) - 2020.01.10 at 15h 47m 35s.xml">
+      <configuration name="All in testObject1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(3) - 2020.01.10 at 15h 50m 36s.xml">
+      <configuration name="All in testObject1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(3) - 2020.01.10 at 15h 51m 08s.xml">
+      <configuration name="All in testObject1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(3) - 2020.01.10 at 15h 52m 03s.xml">
+      <configuration name="All in testObject1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_testObject1_(3) - 2020.01.10 at 15h 52m 18s.xml">
+      <configuration name="All in testObject1 (3)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="395539000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="89" y="34" width="1411" height="1028" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.11666667" side_tool="true" weight="0.5443723" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32900432" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.32716507" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32938564" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.84166664" weight="0.0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8833333" weight="0.09821428" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3292683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16876388" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.3298731" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.3299356" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" content_ui="combo" id="Run Dashboard" order="14" weight="0.3298731" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49655172" weight="0.32589287" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21861471" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/luncene/TestLucene.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/register_zh_CN.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/register.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/commons/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/config/MySecuriteyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/SendEmail.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/Stu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/register1.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/userindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/mapper/StuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/commons/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="68" column="18" lean-forward="true" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/commons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/baoming.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/config/MyMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/UserLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/component/LoginHanderInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/user/userindex.html" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/user/baoming.html" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/user/daka.html" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/userInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/component/MyLocaleResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/commons/login.html" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/model/SysPermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/ShiroApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/dao/UserInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/model/SysRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/model/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/mapper/userMapper.xml" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/templates/commons/index.html" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/component/LoginHanderInterceptor.java" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/config/MyMvcConfig.java" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/component/MyLocaleResolver.java" />
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/config/MyShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/sevice/UserInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/sevice/impl/UserInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/web/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testObject1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1750" />
+      </provider>
+    </entry>
+    <entry file="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro/src/main/java/com/neo/web/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboottest1.iml" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>testObject1:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (testObject1)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testObject1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45588234" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lucene-demos-2.3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45588234" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

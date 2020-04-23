@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-activiti" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-actuator" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-admin" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-admin/spring-boot-demo-admin-client" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-admin/spring-boot-demo-admin-server" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-async" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-cache-ehcache" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-cache-redis" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-codegen" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-docker" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/spring-boot-demo-dubbo-common" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/spring-boot-demo-dubbo-consumer" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dubbo/spring-boot-demo-dubbo-provider" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-dynamic-datasource" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-elasticsearch" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-elasticsearch-rest-high-level-client" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-email" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-exception-handler" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-flyway" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-graylog" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-helloworld" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-https" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ldap" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-log-aop" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-logback" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mongodb" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mq-kafka" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mq-rabbitmq" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-mq-rocketmq" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-multi-datasource-jpa" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-multi-datasource-mybatis" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-neo4j" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-oauth" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-oauth/spring-boot-demo-oauth-authorization-server" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-oauth/spring-boot-demo-oauth-resource-server" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-beetlsql" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-jdbctemplate" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-jpa" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-mybatis" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-mybatis-mapper-page" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-orm-mybatis-plus" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-properties" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ratelimit-guava" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ratelimit-redis" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-security" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-rbac-shiro" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-session" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-sharding-jdbc" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-social" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-swagger" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-swagger-beauty" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-task" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-task-quartz" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-task-xxl-job" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-beetl" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-enjoy" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-freemarker" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-template-thymeleaf" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-tio" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-uflo" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-upload" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-ureport2" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-urule" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-war" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-websocket" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-websocket-socketio" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-demo-master/spring-boot-demo-zookeeper" charset="UTF-8" />
+    <file url="file://E:/JetBrainsIntelliJ IDEA 2018.1.6/spring-boot-examples-master/spring-boot-shiro" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

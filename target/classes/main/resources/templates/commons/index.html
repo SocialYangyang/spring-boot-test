@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+<title>西南医科大学数学建模官网</title>
+	<!-- Bootstrap core CSS -->
+	<link href="asserts/css/bootstrap.min.css" th:href="@{/webjars/bootstrap/4.0.0/css/bootstrap.css}" rel="stylesheet" type="text/css">
+	<!-- Custom styles for this template -->
+	<link href="asserts/css/dashboard.css" th:href="@{/asserts/css/dashboard.css}" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/css/swiper.min.css" th:href="@{/css/swiper.min.css}"/>
+	<link rel="stylesheet" type="text/css" href="/css/animate.min.css" th:href="@{/css/animate.min.css}"/>
+	<link rel="stylesheet" type="text/css" href="/css/style.css" th:href="@{/css/style.css}" />
+	<!--<script src="/js/swiper.min.js" th:src="@{/js/swiper.min.js}" type="text/javascript" charset="utf-8"></script>-->
+	<script src="/js/swiper.animate1.0.3.min.js" th:src="@{/js/swiper.animate1.0.3.min.js}" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+
+
+
+<div class="top">
+	<div class="bar">
+		<div class="logo">
+			<!--<img src="/images/xiaohui1.jpg"/>-->
+		</div>
+		<div class="bar_menu">
+			<ul>
+
+				<li>
+					<a class="btn btn-lg btn-primary btn-danger" th:href="@{/registerpage}" role="button">
+						注册
+					</a>
+				</li>
+
+				<li>
+					<a href="#" th:href="@{/loginpage}">
+						<button class="btn btn-lg btn-primary btn-light" type="submit">登陆</button>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<!--<div class="search">
+			<input type="text" name="keyword" placeholder="ECS" />
+			<div class="search_icon"></div>
+		</div>-->
+	</div>
+	<div class="nav">
+		<ul>
+			<li>
+				<a href="#" th:href="@{http://www.mcm.edu.cn/}">全国大学生数学建模竞赛介绍</a>
+			</li>
+			<li>
+				<a href="#" th:href="@{/commons/Introduce}">报名须知</a>
+			</li>
+
+			<li>
+				<p style="color: red" th:text="${msg}" th:if="${not #strings.isEmpty(msg)}"></p>
+                <a class="register" th:href="@{/user/baoming}">培训报名</a>
+			</li>
+			<!--<li>-->
+				<!--<a href="#">往届证书奖励</a>-->
+				<!--<div class="son">-->
+					<!--<div class="list">-->
+						<!--<h4 class="title">2015年获奖人员</h4>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+					<!--</div>-->
+					<!--<div class="list">-->
+						<!--<h4 class="title">2016年获奖情况</h4>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+					<!--</div>-->
+					<!--<div class="list">-->
+						<!--<h4 class="title">2017年获奖情况</h4>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+					<!--</div>-->
+					<!--<div class="list">-->
+						<!--<h4 class="title">2018年获奖情况</h4>-->
+						<!--<p>-->
+							<!--<a href="#"><i></i></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+						<!--<p>-->
+							<!--<a href="#"></a>-->
+						<!--</p>-->
+					<!--</div>-->
+				<!--</div>-->
+
+			<!--</li>-->
+			<li>
+				<a href="#">培训通知</a>
+			</li>
+			<li>
+				<a href="#">咨询电话</a>
+				<div class="son">
+					<div class="list">
+						<h4 class="title">18780497372</h4>
+						<h4 class="title">110</h4>
+						<h4 class="title">113</h4>
+					</div>
+				</div>
+			</li>
+			<li>
+				<!--<a href="#">获奖情况与出勤分析</a>-->
+			</li>
+			<li>
+				<a href="#"></a>
+			</li>
+			<li>
+				<a href="#"></a>
+			</li>
+			<li>
+				<a href="#"></a>
+			</li>
+		</ul>
+
+	</div>
+	<div class="banner">
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide blue-slide" style="background: #3857AD;">
+					<img src="/images/banner1.jpg" th:src="@{/images/banner1.jpg}" swiper-animate-effect="fadeInUp" class="ani" />
+				</div>
+				<div class="swiper-slide blue-slide" style="background: #24282c;">
+					<img src="/images/huajiaobei.jpg" th:src="@{/images/huajiaobei.jpg}" swiper-animate-effect="fadeInUp" class="ani" />
+				</div>
+				<div class="swiper-slide blue-slide" style="background: #24282c;">
+					<div class="info ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s">
+						<h1>2020年大学生数学建模竞赛</h1>
+						<p></p>
+						<a href="#">了解更多-></a>
+					</div>
+					<img src="/images/zhongqingbei.jpg"th:src="@{/images/zhongqingbei.jpg}" swiper-animate-effect="fadeInUp" class="ani" />
+				</div>
+				<div class="swiper-slide blue-slide" style="background: #24282c;">
+					<div class="info ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s">
+						<h1></h1>
+						<p></p>
+						<a href="#">了解更多-></a>
+					</div>
+					<img src="/images/banner4_bg.png" th:src="@{/images/banner4_bg.png}" swiper-animate-effect="fadeInUp" class="ani" />
+				</div>
+				<div class="swiper-slide blue-slide" style="background: #24282c;">
+					<div class="info ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s">
+						<h1>2020年大学生数学建模获奖情况</h1>
+						<p></p>
+						<a href="#">了解更多-></a>
+					</div>
+					<img src="/images/banner5_bg.jpg" th:src="@{/images/banner5_bg.jpg}" swiper-animate-effect="fadeInUp" class="ani" />
+				</div>
+			</div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</div>
+	<!--<div class="recommend">
+		<ul>
+			<li>
+				<a href="#">
+					<h2>云服务器特惠</h2>
+					<p>限时5折，降低采购和运维成本，助力中小企业成长</p>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<h2>Hi购季特权</h2>
+					<p>“按月付款+包年折扣”两者兼得，两成首付轻松上云</p>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<h2>阿里云 IoT</h2>
+					<p>《智造将来》传递科技温暖，智能人居平台助力养老科技</p>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<h2>DataWorks流计算平台</h2>
+					<p>支持DAG与SQL模式互相转换，可视化拖拽开发实时计算</p>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<h2>MongoDB游戏解决方案</h2>
+					<p>完备的部署形态，适配多种游戏架构</p>
+				</a>
+			</li>
+		</ul>
+	</div>-->
+</div>
+
+<!--<script src="/js/swiper.min.js" th:src="@{/js/swiper.min.js}" type="text/javascript" charset="utf-8"></script>-->
+<script src="/js/swiper.animate1.0.3.min.js" th:src="@{/js/swiper.animate1.0.3.min.js}" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>

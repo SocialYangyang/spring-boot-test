@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-shiro" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-demo" target="1.8" />
+      <module name="spring-boot-demo-activiti" target="1.8" />
+      <module name="spring-boot-demo-actuator" target="1.8" />
+      <module name="spring-boot-demo-admin" target="1.8" />
+      <module name="spring-boot-demo-admin-client" target="1.8" />
+      <module name="spring-boot-demo-admin-server" target="1.8" />
+      <module name="spring-boot-demo-async" target="1.8" />
+      <module name="spring-boot-demo-cache-ehcache" target="1.8" />
+      <module name="spring-boot-demo-cache-redis" target="1.8" />
+      <module name="spring-boot-demo-codegen" target="1.8" />
+      <module name="spring-boot-demo-docker" target="1.8" />
+      <module name="spring-boot-demo-dubbo" target="1.8" />
+      <module name="spring-boot-demo-dubbo-common" target="1.8" />
+      <module name="spring-boot-demo-dubbo-consumer" target="1.8" />
+      <module name="spring-boot-demo-dubbo-provider" target="1.8" />
+      <module name="spring-boot-demo-dynamic-datasource" target="1.8" />
+      <module name="spring-boot-demo-elasticsearch" target="1.8" />
+      <module name="spring-boot-demo-elasticsearch-rest-high-level-client" target="1.8" />
+      <module name="spring-boot-demo-email" target="1.8" />
+      <module name="spring-boot-demo-exception-handler" target="1.8" />
+      <module name="spring-boot-demo-flyway" target="1.8" />
+      <module name="spring-boot-demo-graylog" target="1.8" />
+      <module name="spring-boot-demo-helloworld" target="1.8" />
+      <module name="spring-boot-demo-https" target="1.8" />
+      <module name="spring-boot-demo-ldap" target="1.8" />
+      <module name="spring-boot-demo-log-aop" target="1.8" />
+      <module name="spring-boot-demo-logback" target="1.8" />
+      <module name="spring-boot-demo-mongodb" target="1.8" />
+      <module name="spring-boot-demo-mq-kafka" target="1.8" />
+      <module name="spring-boot-demo-mq-rabbitmq" target="1.8" />
+      <module name="spring-boot-demo-mq-rocketmq" target="1.8" />
+      <module name="spring-boot-demo-multi-datasource-jpa" target="1.8" />
+      <module name="spring-boot-demo-multi-datasource-mybatis" target="1.8" />
+      <module name="spring-boot-demo-neo4j" target="1.8" />
+      <module name="spring-boot-demo-oauth" target="1.8" />
+      <module name="spring-boot-demo-oauth-authorization-server" target="1.8" />
+      <module name="spring-boot-demo-oauth-resource-server" target="1.8" />
+      <module name="spring-boot-demo-orm-beetlsql" target="1.8" />
+      <module name="spring-boot-demo-orm-jdbctemplate" target="1.8" />
+      <module name="spring-boot-demo-orm-jpa" target="1.8" />
+      <module name="spring-boot-demo-orm-mybatis" target="1.8" />
+      <module name="spring-boot-demo-orm-mybatis-mapper-page" target="1.8" />
+      <module name="spring-boot-demo-orm-mybatis-plus" target="1.8" />
+      <module name="spring-boot-demo-properties" target="1.8" />
+      <module name="spring-boot-demo-ratelimit-guava" target="1.8" />
+      <module name="spring-boot-demo-ratelimit-redis" target="1.8" />
+      <module name="spring-boot-demo-rbac-security" target="1.8" />
+      <module name="spring-boot-demo-rbac-security (1)" target="1.8" />
+      <module name="spring-boot-demo-rbac-security (2)" target="1.8" />
+      <module name="spring-boot-demo-rbac-shiro" target="1.8" />
+      <module name="spring-boot-demo-session" target="1.8" />
+      <module name="spring-boot-demo-sharding-jdbc" target="1.8" />
+      <module name="spring-boot-demo-social" target="1.8" />
+      <module name="spring-boot-demo-swagger" target="1.8" />
+      <module name="spring-boot-demo-swagger-beauty" target="1.8" />
+      <module name="spring-boot-demo-task" target="1.8" />
+      <module name="spring-boot-demo-task-quartz" target="1.8" />
+      <module name="spring-boot-demo-task-xxl-job" target="1.8" />
+      <module name="spring-boot-demo-template-beetl" target="1.8" />
+      <module name="spring-boot-demo-template-enjoy" target="1.8" />
+      <module name="spring-boot-demo-template-freemarker" target="1.8" />
+      <module name="spring-boot-demo-template-thymeleaf" target="1.8" />
+      <module name="spring-boot-demo-tio" target="1.8" />
+      <module name="spring-boot-demo-uflo" target="1.8" />
+      <module name="spring-boot-demo-upload" target="1.8" />
+      <module name="spring-boot-demo-ureport2" target="1.8" />
+      <module name="spring-boot-demo-urule" target="1.8" />
+      <module name="spring-boot-demo-war" target="1.8" />
+      <module name="spring-boot-demo-websocket" target="1.8" />
+      <module name="spring-boot-demo-websocket-socketio" target="1.8" />
+      <module name="spring-boot-demo-zookeeper" target="1.8" />
+      <module name="spring-boot-shiro" target="1.8" />
+      <module name="springboottest1" target="1.8" />
+      <module name="testObject1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

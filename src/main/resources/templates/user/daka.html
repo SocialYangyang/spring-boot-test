@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<p id="demo">考勤打卡</p>
+<button onclick="getLocation()">打卡</button>
+<script>
+    /*    例子解释：
+        检测是否支持地理定位
+        如果支持，则运行 getCurrentPosition() 方法。如果不支持，则向用户显示一段消息。
+        如果getCurrentPosition()运行成功，则向参数showPosition中规定的函数返回一个coordinates对象
+        showPosition() 函数获得并显示经度和纬度 */
+    var x=document.getElementById("demo");
+    function getLocation()
+    {
+        if (navigator.geolocation)
+        {
+            navigator.geolocation.getCurrentPosition(showPosition);
+        }
+        else{x.innerHTML="Geolocation is not supported by this browser.";}
+    }
+    function showPosition(position)
+    {
+        x.innerHTML="Latitude: " + position.coords.latitude +
+            "<br />Longitude: " + position.coords.longitude;
+    }
+</script>
+</body>
